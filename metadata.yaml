@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28093#The-Confessions-of-Ars-ne-Lupin
 gutenberg_issued: '2009-02-15'
 gutenberg_type: Text
 identifiers:
